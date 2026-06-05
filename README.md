@@ -15,9 +15,9 @@ IN particular, I focus on Franklin County, as it has been affected by 15 major h
 
 ## Filtering by State
 
-![Map Filter State](images/Image_dahsboard_newyork.png)
+![Map Filter State](images/Image_dahsboard_california.png)
 
 ## Filtering by County
 
-![Map Filter County](images/Image_dahsboard_california.png)
+![Map Filter County](images/Image_dahsboard_newyork.png)
 
